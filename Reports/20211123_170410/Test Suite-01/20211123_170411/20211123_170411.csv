@@ -1,0 +1,39 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite-01,Chrome 96.0.4664.55,,,2021-11-23 17:04:15,2021-11-23 17:04:46,30.026s,PASSED
+,,,,,,,
+Test Cases/Registration-001,Chrome 96.0.4664.55,,,2021-11-23 17:04:16,2021-11-23 17:04:29,13.386s,PASSED
+"openBrowser("""")",Chrome 96.0.4664.55,,,2021-11-23 17:04:16,2021-11-23 17:04:17,1.588s,PASSED
+"navigateToUrl(""https://juice-shop.herokuapp.com/#/"")",Chrome 96.0.4664.55,,,2021-11-23 17:04:17,2021-11-23 17:04:20,2.377s,PASSED
+"click(findTestObject(""Object Repository/Page_OWASP Juice Shop/span_Dismiss""))",Chrome 96.0.4664.55,,,2021-11-23 17:04:20,2021-11-23 17:04:21,1.389s,PASSED
+"click(findTestObject(""Object Repository/Page_OWASP Juice Shop/span_Account""))",Chrome 96.0.4664.55,,,2021-11-23 17:04:21,2021-11-23 17:04:22,0.596s,PASSED
+"click(findTestObject(""Object Repository/Page_OWASP Juice Shop/span_Login""))",Chrome 96.0.4664.55,,,2021-11-23 17:04:22,2021-11-23 17:04:23,0.947s,PASSED
+"click(findTestObject(""Object Repository/Page_OWASP Juice Shop/a_Not yet a customer""))",Chrome 96.0.4664.55,,,2021-11-23 17:04:23,2021-11-23 17:04:24,1.053s,PASSED
+"setText(findTestObject(""Object Repository/Page_OWASP Juice Shop/input_User Registration_emailControl""), ""hoda1295@gmail.com"")",Chrome 96.0.4664.55,,,2021-11-23 17:04:24,2021-11-23 17:04:25,1.084s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_OWASP Juice Shop/input_Email_passwordControl""), ""5kiaRFYhE3U="")",Chrome 96.0.4664.55,,,2021-11-23 17:04:25,2021-11-23 17:04:25,0.517s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_OWASP Juice Shop/input_Password must be 5-40 characters long_eeca64""), ""5kiaRFYhE3U="")",Chrome 96.0.4664.55,,,2021-11-23 17:04:25,2021-11-23 17:04:26,0.701s,PASSED
+"click(findTestObject(""Object Repository/Page_OWASP Juice Shop/div_Security Question""))",Chrome 96.0.4664.55,,,2021-11-23 17:04:26,2021-11-23 17:04:27,0.581s,PASSED
+"click(findTestObject(""Object Repository/Page_OWASP Juice Shop/span_Mothers maiden name""))",Chrome 96.0.4664.55,,,2021-11-23 17:04:27,2021-11-23 17:04:27,0.578s,PASSED
+"setText(findTestObject(""Object Repository/Page_OWASP Juice Shop/input_This cannot be changed later_security_f37fc9""), ""Mom"")",Chrome 96.0.4664.55,,,2021-11-23 17:04:27,2021-11-23 17:04:29,1.327s,PASSED
+"click(findTestObject(""Object Repository/Page_OWASP Juice Shop/span_person_add  Register""))",Chrome 96.0.4664.55,,,2021-11-23 17:04:29,2021-11-23 17:04:29,0.467s,PASSED
+,,,,,,,
+Test Cases/Registration-003,Chrome 96.0.4664.55,,,2021-11-23 17:04:29,2021-11-23 17:04:46,16.495s,PASSED
+"openBrowser("""")",Chrome 96.0.4664.55,,,2021-11-23 17:04:29,2021-11-23 17:04:30,1.052s,PASSED
+"navigateToUrl(""https://juice-shop.herokuapp.com/#/"")",Chrome 96.0.4664.55,,,2021-11-23 17:04:30,2021-11-23 17:04:33,3.241s,PASSED
+"click(findTestObject(""Object Repository/Page_OWASP Juice Shop/span_visibility_off Dismiss""))",Chrome 96.0.4664.55,,,2021-11-23 17:04:33,2021-11-23 17:04:34,0.483s,PASSED
+"click(findTestObject(""Object Repository/Page_OWASP Juice Shop/i_account_circle""))",Chrome 96.0.4664.55,,,2021-11-23 17:04:34,2021-11-23 17:04:35,0.588s,PASSED
+"click(findTestObject(""Object Repository/Page_OWASP Juice Shop/span_Login""))",Chrome 96.0.4664.55,,,2021-11-23 17:04:35,2021-11-23 17:04:35,0.949s,PASSED
+"click(findTestObject(""Object Repository/Page_OWASP Juice Shop/a_Not yet a customer""))",Chrome 96.0.4664.55,,,2021-11-23 17:04:35,2021-11-23 17:04:37,1.035s,PASSED
+"click(findTestObject(""Object Repository/Page_OWASP Juice Shop/div_Email""))",Chrome 96.0.4664.55,,,2021-11-23 17:04:37,2021-11-23 17:04:37,0.671s,PASSED
+"setText(findTestObject(""Object Repository/Page_OWASP Juice Shop/input_User Registration_emailControl""), ""Hoda1234@gmail.com"")",Chrome 96.0.4664.55,,,2021-11-23 17:04:37,2021-11-23 17:04:38,1.052s,PASSED
+"click(findTestObject(""Object Repository/Page_OWASP Juice Shop/div_Password""))",Chrome 96.0.4664.55,,,2021-11-23 17:04:38,2021-11-23 17:04:39,0.574s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_OWASP Juice Shop/input_Email_passwordControl""), ""lnBbP66hWGE="")",Chrome 96.0.4664.55,,,2021-11-23 17:04:39,2021-11-23 17:04:39,0.488s,PASSED
+"click(findTestObject(""Object Repository/Page_OWASP Juice Shop/div_Repeat Password""))",Chrome 96.0.4664.55,,,2021-11-23 17:04:39,2021-11-23 17:04:40,0.777s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_OWASP Juice Shop/input_Password must be 5-40 characters long_eeca64""), ""rQux+1OSkB8="")",Chrome 96.0.4664.55,,,2021-11-23 17:04:40,2021-11-23 17:04:41,0.483s,PASSED
+"click(findTestObject(""Object Repository/Page_OWASP Juice Shop/div_Password""))",Chrome 96.0.4664.55,,,2021-11-23 17:04:41,2021-11-23 17:04:41,0.461s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_OWASP Juice Shop/input_Email_passwordControl""), ""Ky11DoA/id8="")",Chrome 96.0.4664.55,,,2021-11-23 17:04:41,2021-11-23 17:04:42,0.492s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_OWASP Juice Shop/input_Password must be 5-40 characters long_eeca64""), ""Ky11DoA/id8="")",Chrome 96.0.4664.55,,,2021-11-23 17:04:42,2021-11-23 17:04:42,0.796s,PASSED
+"click(findTestObject(""Object Repository/Page_OWASP Juice Shop/div_Answer""))",Chrome 96.0.4664.55,,,2021-11-23 17:04:42,2021-11-23 17:04:43,0.475s,PASSED
+"setText(findTestObject(""Object Repository/Page_OWASP Juice Shop/input_This cannot be changed later_security_f37fc9""), ""Browny"")",Chrome 96.0.4664.55,,,2021-11-23 17:04:43,2021-11-23 17:04:43,0.709s,PASSED
+"click(findTestObject(""Object Repository/Page_OWASP Juice Shop/div_Security Question""))",Chrome 96.0.4664.55,,,2021-11-23 17:04:43,2021-11-23 17:04:44,0.480s,PASSED
+"click(findTestObject(""Object Repository/Page_OWASP Juice Shop/span_Name of your favorite pet""))",Chrome 96.0.4664.55,,,2021-11-23 17:04:44,2021-11-23 17:04:45,0.578s,PASSED
+"click(findTestObject(""Object Repository/Page_OWASP Juice Shop/span_person_add  Register""))",Chrome 96.0.4664.55,,,2021-11-23 17:04:45,2021-11-23 17:04:46,0.978s,PASSED

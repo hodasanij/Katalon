@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_OWASP Juice Shop/div_User RegistrationEmail Password Passwor_420a84",
+      "brokenLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Copy to clipboard\u0027])[1]/following::div[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//app-register/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_OWASP Juice Shop/div_User RegistrationEmail Password Passwor_420a84_position.png"
+    }
+  ]
+}
